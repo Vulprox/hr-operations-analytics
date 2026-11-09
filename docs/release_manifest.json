@@ -1,0 +1,22 @@
+{
+  "release_date": "2026-10-28",
+  "data_classification": "SYNTHETIC PORTFOLIO DATA",
+  "origin": "Reconstructed from workplace spreadsheets designed and used by Yakiv Petrov",
+  "ai_assistance": "Portfolio reconstruction, implementation support, documentation, SQL extension and verification",
+  "sql_queries": 5,
+  "automated_tests_passed": 21,
+  "native_negative_fixtures_passed": 2,
+  "public_sharing_enabled": false,
+  "github_published": false,
+  "csv_rows": {
+    "leave": 185,
+    "employees": 100,
+    "stays": 100,
+    "leave_balances": 100,
+    "residence": 40,
+    "addresses": 85,
+    "apartments": 10,
+    "employee_references": 15,
+    "sick_leave": 165
+  }
+}

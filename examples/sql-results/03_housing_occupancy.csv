@@ -1,0 +1,11 @@
+apartment_id,capacity,residents,available_beds,occupancy_rate,capacity_check
+APT-01,4,4,0,1.0,OK
+APT-02,4,4,0,1.0,OK
+APT-03,4,4,0,1.0,OK
+APT-04,4,4,0,1.0,OK
+APT-05,4,4,0,1.0,OK
+APT-06,4,4,0,1.0,OK
+APT-07,4,4,0,1.0,OK
+APT-08,4,4,0,1.0,OK
+APT-09,4,4,0,1.0,OK
+APT-10,4,4,0,1.0,OK

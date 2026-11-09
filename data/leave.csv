@@ -1,0 +1,186 @@
+LeaveID,Employee name,EmployeeID,Start date,End date,Calendar days,Leave type,Paid hours,Payment status,Approval notes,Validation
+LV-0001,Arven Testwald,EMP-0001,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0002,Arven Testwald,EMP-0001,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0003,Belian Testwald,EMP-0002,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0004,Belian Testwald,EMP-0002,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0005,Corvin Testwald,EMP-0003,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0006,Corvin Testwald,EMP-0003,2026-07-05,2026-07-11,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0007,Darian Testwald,EMP-0004,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0008,Darian Testwald,EMP-0004,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0009,Elvar Testwald,EMP-0005,2026-04-07,2026-04-11,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0010,Elvar Testwald,EMP-0005,2026-09-07,2026-09-13,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0011,Faron Testwald,EMP-0006,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0012,Faron Testwald,EMP-0006,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0013,Galen Testwald,EMP-0007,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0014,Galen Testwald,EMP-0007,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0015,Havor Testwald,EMP-0008,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0016,Havor Testwald,EMP-0008,2026-09-10,2026-09-16,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0017,Ilven Testwald,EMP-0009,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0018,Ilven Testwald,EMP-0009,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0019,Jorin Testwald,EMP-0010,2026-03-12,2026-03-16,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0020,Jorin Testwald,EMP-0010,2026-08-12,2026-08-18,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0021,Arven Demoberg,EMP-0011,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0022,Arven Demoberg,EMP-0011,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0023,Belian Demoberg,EMP-0012,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0024,Belian Demoberg,EMP-0012,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0025,Corvin Demoberg,EMP-0013,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0026,Corvin Demoberg,EMP-0013,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0027,Darian Demoberg,EMP-0014,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0028,Darian Demoberg,EMP-0014,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0029,Elvar Demoberg,EMP-0015,2026-02-05,2026-02-09,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0030,Elvar Demoberg,EMP-0015,2026-07-05,2026-07-11,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0031,Faron Demoberg,EMP-0016,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0032,Faron Demoberg,EMP-0016,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0033,Galen Demoberg,EMP-0017,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0034,Galen Demoberg,EMP-0017,2026-09-07,2026-09-13,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0035,Havor Demoberg,EMP-0018,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0036,Havor Demoberg,EMP-0018,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0037,Ilven Demoberg,EMP-0019,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0038,Ilven Demoberg,EMP-0019,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0039,Jorin Demoberg,EMP-0020,2026-04-10,2026-04-14,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0040,Jorin Demoberg,EMP-0020,2026-09-10,2026-09-16,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0041,Arven Musterhain,EMP-0021,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0042,Arven Musterhain,EMP-0021,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0043,Belian Musterhain,EMP-0022,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0044,Belian Musterhain,EMP-0022,2026-08-12,2026-08-18,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0045,Corvin Musterhain,EMP-0023,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0046,Corvin Musterhain,EMP-0023,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0047,Darian Musterhain,EMP-0024,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0048,Darian Musterhain,EMP-0024,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0049,Elvar Musterhain,EMP-0025,2026-03-03,2026-03-07,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0050,Elvar Musterhain,EMP-0025,2026-08-03,2026-08-09,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0051,Faron Musterhain,EMP-0026,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0052,Faron Musterhain,EMP-0026,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0053,Galen Musterhain,EMP-0027,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0054,Galen Musterhain,EMP-0027,2026-07-05,2026-07-11,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0055,Havor Musterhain,EMP-0028,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0056,Havor Musterhain,EMP-0028,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0057,Ilven Musterhain,EMP-0029,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0058,Ilven Musterhain,EMP-0029,2026-09-07,2026-09-13,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0059,Jorin Musterhain,EMP-0030,2026-02-08,2026-02-12,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0060,Jorin Musterhain,EMP-0030,2026-07-08,2026-07-14,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0061,Arven Fiktental,EMP-0031,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0062,Arven Fiktental,EMP-0031,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0063,Belian Fiktental,EMP-0032,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0064,Belian Fiktental,EMP-0032,2026-09-10,2026-09-16,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0065,Corvin Fiktental,EMP-0033,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0066,Corvin Fiktental,EMP-0033,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0067,Darian Fiktental,EMP-0034,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0068,Darian Fiktental,EMP-0034,2026-08-12,2026-08-18,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0069,Elvar Fiktental,EMP-0035,2026-04-13,2026-04-17,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0070,Elvar Fiktental,EMP-0035,2026-09-13,2026-09-19,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0071,Faron Fiktental,EMP-0036,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0072,Faron Fiktental,EMP-0036,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0073,Galen Fiktental,EMP-0037,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0074,Galen Fiktental,EMP-0037,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0075,Havor Fiktental,EMP-0038,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0076,Havor Fiktental,EMP-0038,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0077,Ilven Fiktental,EMP-0039,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0078,Ilven Fiktental,EMP-0039,2026-07-05,2026-07-11,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0079,Jorin Fiktental,EMP-0040,2026-03-06,2026-03-10,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0080,Jorin Fiktental,EMP-0040,2026-08-06,2026-08-12,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0081,Arven Probenau,EMP-0041,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0082,Arven Probenau,EMP-0041,2026-09-07,2026-09-13,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0083,Belian Probenau,EMP-0042,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0084,Belian Probenau,EMP-0042,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0085,Corvin Probenau,EMP-0043,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0086,Corvin Probenau,EMP-0043,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0087,Darian Probenau,EMP-0044,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0088,Darian Probenau,EMP-0044,2026-09-10,2026-09-16,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0089,Elvar Probenau,EMP-0045,2026-02-11,2026-02-15,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0090,Elvar Probenau,EMP-0045,2026-07-11,2026-07-17,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0091,Faron Probenau,EMP-0046,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0092,Faron Probenau,EMP-0046,2026-08-12,2026-08-18,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0093,Galen Probenau,EMP-0047,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0094,Galen Probenau,EMP-0047,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0095,Havor Probenau,EMP-0048,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0096,Havor Probenau,EMP-0048,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0097,Ilven Probenau,EMP-0049,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0098,Ilven Probenau,EMP-0049,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0099,Jorin Probenau,EMP-0050,2026-04-04,2026-04-08,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0100,Jorin Probenau,EMP-0050,2026-09-04,2026-09-10,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0101,Arven Testfeld,EMP-0051,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0102,Arven Testfeld,EMP-0051,2026-07-05,2026-07-11,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0103,Belian Testfeld,EMP-0052,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0104,Belian Testfeld,EMP-0052,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0105,Corvin Testfeld,EMP-0053,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0106,Corvin Testfeld,EMP-0053,2026-09-07,2026-09-13,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0107,Darian Testfeld,EMP-0054,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0108,Darian Testfeld,EMP-0054,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0109,Elvar Testfeld,EMP-0055,2026-03-09,2026-03-13,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0110,Elvar Testfeld,EMP-0055,2026-08-09,2026-08-15,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0111,Faron Testfeld,EMP-0056,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0112,Faron Testfeld,EMP-0056,2026-09-10,2026-09-16,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0113,Galen Testfeld,EMP-0057,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0114,Galen Testfeld,EMP-0057,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0115,Havor Testfeld,EMP-0058,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0116,Havor Testfeld,EMP-0058,2026-08-12,2026-08-18,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0117,Ilven Testfeld,EMP-0059,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0118,Ilven Testfeld,EMP-0059,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0119,Jorin Testfeld,EMP-0060,2026-02-02,2026-02-06,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0120,Jorin Testfeld,EMP-0060,2026-07-02,2026-07-08,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0121,Arven Demobrunn,EMP-0061,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0122,Arven Demobrunn,EMP-0061,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0123,Belian Demobrunn,EMP-0062,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0124,Belian Demobrunn,EMP-0062,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0125,Corvin Demobrunn,EMP-0063,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0126,Corvin Demobrunn,EMP-0063,2026-07-05,2026-07-11,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0127,Darian Demobrunn,EMP-0064,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0128,Darian Demobrunn,EMP-0064,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0129,Elvar Demobrunn,EMP-0065,2026-04-07,2026-04-11,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0130,Elvar Demobrunn,EMP-0065,2026-09-07,2026-09-13,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0131,Faron Demobrunn,EMP-0066,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0132,Faron Demobrunn,EMP-0066,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0133,Galen Demobrunn,EMP-0067,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0134,Galen Demobrunn,EMP-0067,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0135,Havor Demobrunn,EMP-0068,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0136,Havor Demobrunn,EMP-0068,2026-09-10,2026-09-16,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0137,Ilven Demobrunn,EMP-0069,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0138,Ilven Demobrunn,EMP-0069,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0139,Jorin Demobrunn,EMP-0070,2026-03-12,2026-03-16,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0140,Jorin Demobrunn,EMP-0070,2026-08-12,2026-08-18,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0141,Arven Musterfels,EMP-0071,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0142,Arven Musterfels,EMP-0071,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0143,Belian Musterfels,EMP-0072,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0144,Belian Musterfels,EMP-0072,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0145,Corvin Musterfels,EMP-0073,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0146,Corvin Musterfels,EMP-0073,2026-08-03,2026-08-09,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0147,Darian Musterfels,EMP-0074,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0148,Darian Musterfels,EMP-0074,2026-09-04,2026-09-10,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0149,Elvar Musterfels,EMP-0075,2026-02-05,2026-02-09,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0150,Elvar Musterfels,EMP-0075,2026-07-05,2026-07-11,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0151,Faron Musterfels,EMP-0076,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0152,Faron Musterfels,EMP-0076,2026-08-06,2026-08-12,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0153,Galen Musterfels,EMP-0077,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0154,Galen Musterfels,EMP-0077,2026-09-07,2026-09-13,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0155,Havor Musterfels,EMP-0078,2026-02-08,2026-02-12,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0156,Havor Musterfels,EMP-0078,2026-07-08,2026-07-14,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0157,Ilven Musterfels,EMP-0079,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0158,Ilven Musterfels,EMP-0079,2026-08-09,2026-08-15,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0159,Jorin Musterfels,EMP-0080,2026-04-10,2026-04-14,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0160,Jorin Musterfels,EMP-0080,2026-09-10,2026-09-16,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0161,Arven Fiktenhof,EMP-0081,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0162,Arven Fiktenhof,EMP-0081,2026-07-11,2026-07-17,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0163,Belian Fiktenhof,EMP-0082,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0164,Belian Fiktenhof,EMP-0082,2026-08-12,2026-08-18,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0165,Corvin Fiktenhof,EMP-0083,2026-04-13,2026-04-17,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0166,Corvin Fiktenhof,EMP-0083,2026-09-13,2026-09-19,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0167,Darian Fiktenhof,EMP-0084,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0168,Darian Fiktenhof,EMP-0084,2026-07-02,2026-07-08,7,Paid,40,Paid,Demo approval; not an actual leave request,OK
+LV-0169,Elvar Fiktenhof,EMP-0085,2026-03-03,2026-03-07,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0170,Elvar Fiktenhof,EMP-0085,2026-08-03,2026-08-09,7,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0171,Faron Fiktenhof,EMP-0086,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0172,Galen Fiktenhof,EMP-0087,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0173,Havor Fiktenhof,EMP-0088,2026-03-06,2026-03-10,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0174,Ilven Fiktenhof,EMP-0089,2026-04-07,2026-04-11,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0175,Jorin Fiktenhof,EMP-0090,2026-02-08,2026-02-12,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0176,Arven Probenwald,EMP-0091,2026-03-09,2026-03-13,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0177,Belian Probenwald,EMP-0092,2026-04-10,2026-04-14,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0178,Corvin Probenwald,EMP-0093,2026-02-11,2026-02-15,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0179,Darian Probenwald,EMP-0094,2026-03-12,2026-03-16,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0180,Elvar Probenwald,EMP-0095,2026-04-13,2026-04-17,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK
+LV-0181,Faron Probenwald,EMP-0096,2026-02-02,2026-02-06,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0182,Galen Probenwald,EMP-0097,2026-03-03,2026-03-07,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0183,Havor Probenwald,EMP-0098,2026-04-04,2026-04-08,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0184,Ilven Probenwald,EMP-0099,2026-02-05,2026-02-09,5,Paid,24,Paid,Demo approval; not an actual leave request,OK
+LV-0185,Jorin Probenwald,EMP-0100,2026-03-06,2026-03-10,5,Unpaid,0,Not required,Demo approval; not an actual leave request,OK

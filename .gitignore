@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+Thumbs.db
+projects/employee-references/generated/
+
+outputs/
+__pycache__/
+*.py[cod]
+.venv/

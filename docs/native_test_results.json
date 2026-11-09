@@ -1,0 +1,124 @@
+[
+  {
+    "test": "Overlapping leave periods excluded from balance",
+    "observed": [
+      {
+        "tab": "Leave",
+        "blocks": [
+          [
+            [
+              "Overlapping leave"
+            ],
+            [
+              "Overlapping leave"
+            ]
+          ]
+        ]
+      },
+      {
+        "tab": "Leave Balances",
+        "blocks": [
+          [
+            [
+              "0.00",
+              "427.52",
+              "53.44",
+              "0.00",
+              "427.52",
+              "Review excluded leave records"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "test": "Overlapping housing stays excluded",
+    "observed": [
+      {
+        "tab": "Apartments",
+        "blocks": [
+          [
+            [
+              "3"
+            ]
+          ]
+        ]
+      },
+      {
+        "tab": "Stays",
+        "blocks": [
+          [
+            [
+              "Overlapping stay"
+            ],
+            [
+              "Overlapping stay"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "test": "Restored leave baseline",
+    "observed": [
+      {
+        "tab": "Leave",
+        "blocks": [
+          [
+            [
+              "OK"
+            ],
+            [
+              "OK"
+            ]
+          ]
+        ]
+      },
+      {
+        "tab": "Leave Balances",
+        "blocks": [
+          [
+            [
+              "64.00",
+              "363.52",
+              "45.44",
+              "0.00",
+              "363.52",
+              "OK"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "test": "Restored housing baseline",
+    "observed": [
+      {
+        "tab": "Apartments",
+        "blocks": [
+          [
+            [
+              "4"
+            ]
+          ]
+        ]
+      },
+      {
+        "tab": "Stays",
+        "blocks": [
+          [
+            [
+              "OK"
+            ],
+            [
+              "OK"
+            ]
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+# Optional: only for regenerating publication charts.
+matplotlib>=3.8,<4
